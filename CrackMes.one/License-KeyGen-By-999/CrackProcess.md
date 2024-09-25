@@ -9,7 +9,7 @@ And here is the link to the CrackMe
 
 https://crackmes.one/crackme/66b8ae6e90c4c2830c821e98
 
-the objective of this crackme is for the user to r figure out the correct algorithm and generate a valid license key to "activate" the license and create an application that replicates the process of that.
+the objective of this crackme is for the user to figure out the correct algorithm and generate a valid license key to "activate" the license and create an application that replicates the process of that.
 
 First I decompile the CrackMe
 
