@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matryoshka-Keygen", "Matryoshka-Keygen\Matryoshka-Keygen.csproj", "{993E1B45-0BD2-4EA5-A6C8-871D3AC3FCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993E1B45-0BD2-4EA5-A6C8-871D3AC3FCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993E1B45-0BD2-4EA5-A6C8-871D3AC3FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993E1B45-0BD2-4EA5-A6C8-871D3AC3FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993E1B45-0BD2-4EA5-A6C8-871D3AC3FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
