@@ -45,6 +45,7 @@ This method generates a 4-character segment for the license key.
 
 Now that I figured out how the application generates a key based on the username using a predefined algorithm (with GenerateSerialKey and GenerateSegment). Its time to create an app that replicates the process, I will choose to write in C#, You can view the source code in here:
 
+https://github.com/StillAching/CrackMes-Depot/tree/main/CrackMes.one/License-KeyGen-By-999/SRC-Code
 
 Alright, now that I've ran my application, it gave me the license key for the CrackMe
 
