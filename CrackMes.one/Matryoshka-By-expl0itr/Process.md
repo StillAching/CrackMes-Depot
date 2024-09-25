@@ -69,7 +69,7 @@ Here’s a breakdown of the process:
 
 Now to create a key generator that produces valid license keys I will need to replicate this process exactly. Below is the src code of a CLI app that I've written in C# that implements the key generation logic:
 
-
+https://github.com/StillAching/CrackMes-Depot/blob/main/CrackMes.one/Matryoshka-By-expl0itr/Matryoshka-Solution/Matryoshka-Keygen/Program.cs
 
 Now that I've built my app its time to run it and see the key that it generated for me
 
