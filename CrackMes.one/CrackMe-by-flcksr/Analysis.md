@@ -69,7 +69,7 @@ Then after I scroll down a bit, I see the helper Class ``Class0``, this is a nes
 
 Ok, now that I figured out how the application generates a key based on using a predefined algorithm. Its time to create an app that replicates the process, I will choose to write in C#, You can view the source code in here:
 
-https://github.com/StillAching/CrackMes-Depot/tree/main/CrackMes.one/License-KeyGen-By-999/SRC-Code
+https://github.com/StillAching/CrackMes-Depot/tree/main/CrackMes.one/CrackMe-by-flcksr/flcksr-crackme-keygen
 
 Alright, now that I've ran my application, it gave me the license key for the CrackMe so let's go ahead and test it
 
