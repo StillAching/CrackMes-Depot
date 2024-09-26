@@ -40,7 +40,7 @@ Here is a break down of the checks:
 1) The key must begin with the digits "4409".
 2) Counts the number of '8's in the key, there must be at least 1 '8' in the key.
 3) No '4's after the first four characters so after removing hyphens and the first four characters the remaining key must not contain the digit '4'.
-4) The key format's is that the key must match this pattern like "xxx-xxxx-xxxx-xxxx" (where each ``x`` is a digit).
+4) The key format's is that the key must match this pattern like "xxxx-xxxx-xxxx-xxxx" (where each ``x`` is a digit).
 5) At least 5 distinct digits so the key must contain at least five unique digits.
 6) sum of digits with custom calculation: each digit is transformed using ``method_1`` before summing, this transformation is non-trivial and affects the validation logic.
 7) No three consecutive identical digits that means the key must not contain any sequence of three identical digits (example: "111").
